@@ -8,6 +8,11 @@
 *   Участие в хакатонах
 *   Разработка pet проектов
 
+## Навыки
+*   Stream API
+*   REST API
+*   WebSocket
+
 ## Стэк технологий
 *   Java
 *   PostgreSQL, Redis
@@ -15,6 +20,7 @@
 *   Gradle
 *   Docker
 *   gRPC
+*   JUnit
 *   Git (GitHub)
 
 ##
