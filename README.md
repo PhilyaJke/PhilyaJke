@@ -39,3 +39,5 @@
    <a href="https://vk.com/philippjke">Вконтакте</a>
    <a href='mailto:borozdinfilipp@gmail.com'>Почта</a>
 </div>
+<br>
+<p align="center"><img style="height=20px" src="https://i.gifer.com/origin/04/0448bd208a14f6e661497f93b7794b8c_w200.gif"></p>
