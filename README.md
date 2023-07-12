@@ -20,7 +20,7 @@
 *   Gradle
 *   Docker
 *   gRPC
-*   JUnit
+*   Selenium
 *   Git (GitHub)
 
 ##
